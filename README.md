@@ -13,7 +13,7 @@
 
 [Brevets Time Calculator Web App (Python, REST, DjangoDB, Ajax)](github.com/MYREPO)
 
-[AI YouTube Video Summarizer Script (Python, YTDL OpenAI, Anthropic)](MYREPO)
+[AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
 [Random prnt.sc URL Automation Script (Python)](https://github.com/Zack-John/prntsc-url-generator)
 
