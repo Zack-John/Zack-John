@@ -9,7 +9,7 @@
 
 <h2>Programming Projects:</h2>
 
-[Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/MYREPO)
+[Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/Zack-John/multithreaded-bank-simulator)
 
 [Brevets Time Calculator Web App (Python, REST, DjangoDB, Ajax)](github.com/MYREPO)
 
