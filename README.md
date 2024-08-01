@@ -15,7 +15,7 @@
 
 [AI YouTube Video Summarizer Script (Python, YTDL OpenAI, Anthropic)](MYREPO)
 
-[Random prnt.sc URL Automation Script (Python)](https://github.com/MYREPO)
+[Random prnt.sc URL Automation Script (Python)](https://github.com/Zack-John/prntsc-url-generator)
 
 
 <h2>IT / Programming Things I Do For Fun :)</h2>
