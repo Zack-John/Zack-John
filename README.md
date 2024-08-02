@@ -2,7 +2,7 @@
 
 <h2>Home Lab Projects:</h2>
 
-[Active Directory Home Lab (VirtualBox, Server 2019, Windows 10)](MYPROJECT)
+[Active Directory Home Lab (VirtualBox, Server 2019, Windows 10](https://github.com/Zack-John/active-directory-homelab)
 
 [Linux Administration Home Lab (Ubuntu, Rocky Linux, zfs, ssh, Ansible)](MYPROJECT)
 
@@ -11,7 +11,7 @@
 
 [Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/Zack-John/multithreaded-bank-simulator)
 
-[Brevets Time Calculator Web App (Python, REST, DjangoDB, Ajax)](github.com/MYREPO)
+[Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](github.com/MYREPO)
 
 [AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
@@ -29,7 +29,7 @@
   - [Practicing JavaScript](MYREPO)
 
 - <b>Learning Game Development (Various)</b>
-  - [Top Down Shooter (Godot, GDScript)](MYREPO)
+  - [Top Down Shooter (Godot, GDScript)](https://github.com/Zack-John/godot-top-down-shooter)
   - [Heart Platformer (Godot, GDScript)](MYREPO)
   - [Sawblade Survival Game (Godot, GDScript)](MYREPO)
   - ["Roll-A-Ball" (Unity, C#)](MYREPO)
