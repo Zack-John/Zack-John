@@ -2,9 +2,9 @@
 
 <h2>Home Lab Projects:</h2>
 
-[Active Directory Home Lab (VirtualBox, Server 2019, Windows 10](https://github.com/Zack-John/active-directory-homelab)
+[Active Directory HomeLab (VirtualBox, Server 2019, Windows 10](https://github.com/Zack-John/active-directory-homelab)
 
-[Linux Administration Home Lab (Ubuntu, Rocky Linux, zfs, ssh, Ansible)](MYPROJECT)
+[Linux Security / System Admin HomeLab (Ubuntu, RHEL, ssh, zfs, nfs, Suricata, Ansible)](https://github.com/Zack-John/ubuntu-rhel-sysadmin-lab/)
 
 
 <h2>Programming Projects:</h2>
