@@ -15,8 +15,6 @@
 
 [AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
-[Random prnt.sc URL Automation Script (Python)](https://github.com/Zack-John/prntsc-url-generator)
-
 
 <h2>IT / Programming Things I Do For Fun :)</h2>
 
