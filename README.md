@@ -23,16 +23,16 @@
 - <b>Learning CyberSecurity Fundementals (TryHackMe)</b>
   - [TryHackMe Profile](https://tryhackme.com/p/ZackHacks)
 
-- <b>Learning Web Development (The Odin Project)</b>
+- <b>Learning Game Development (Various)</b>
+  - [Top Down Shooter (Godot, GDScript)](https://github.com/Zack-John/godot-top-down-shooter)
+  - [Heart Platformer (Godot, GDScript)]([MYREPO](https://github.com/Zack-John/heart-platformer))
+  - [Sawblade Survival Game (Godot, GDScript)](https://github.com/Zack-John/balloon-survival-game)
+  - ["Roll-A-Ball" (Unity, C#)](https://github.com/Zack-John/roll-a-ball/)
+
+  - <b>Learning Web Development (The Odin Project)</b>
   - [Static Landing Page Mock-Up](MYREPO)
   - [Simple Recipes Website](MYREPO)
   - [Practicing JavaScript](MYREPO)
-
-- <b>Learning Game Development (Various)</b>
-  - [Top Down Shooter (Godot, GDScript)](https://github.com/Zack-John/godot-top-down-shooter)
-  - [Heart Platformer (Godot, GDScript)](MYREPO)
-  - [Sawblade Survival Game (Godot, GDScript)](MYREPO)
-  - ["Roll-A-Ball" (Unity, C#)](https://github.com/Zack-John/roll-a-ball/)
 
 
 <!--
