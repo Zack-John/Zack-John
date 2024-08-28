@@ -13,7 +13,7 @@
 
 [Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](github.com/MYREPO)
 
-[Mobile/Web Two-Factor Authentication Project(Python, Flask, Firebase Database and Authentication, HTML/CSS)](https://github.com/iperkins987/NotDuo_Web)
+[Mobile/Web Two-Factor Authentication Project (Python, Flask, Firebase Database and Authentication, HTML/CSS)](https://github.com/iperkins987/NotDuo_Web)
 
 [AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
