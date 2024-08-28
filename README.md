@@ -11,7 +11,7 @@
 
 [Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/Zack-John/multithreaded-bank-simulator)
 
-[Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](github.com/MYREPO)
+[Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](https://github.com/Zack-John/brevets-time-calculator/)
 
 [Mobile/Web Two-Factor Authentication Project (Python, Flask, Firebase Database and Authentication, HTML/CSS)](https://github.com/iperkins987/NotDuo_Web)
 
@@ -28,12 +28,6 @@
   - [Heart Platformer (Godot, GDScript)](https://github.com/Zack-John/heart-platformer)
   - [Sawblade Survival Game (Godot, GDScript)](https://github.com/Zack-John/balloon-survival-game)
   - ["Roll-A-Ball" (Unity, C#)](https://github.com/Zack-John/roll-a-ball/)
-
-- <b>Learning Web Development (The Odin Project)</b>
-  - [Static Landing Page Mock-Up](MYREPO)
-  - [Simple Recipes Website](MYREPO)
-  - [Practicing JavaScript](MYREPO)
-
 
 <!--
 **Zack-John/Zack-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
