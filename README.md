@@ -13,7 +13,7 @@
 
 [Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](github.com/MYREPO)
 
-[Mobile/Web Two-Factor Authentication Project(Python, Flask, Firebase Database and Authentication, HTML/CSS](https://github.com/iperkins987/NotDuo_Web)
+[Mobile/Web Two-Factor Authentication Project(Python, Flask, Firebase Database and Authentication, HTML/CSS)](https://github.com/iperkins987/NotDuo_Web)
 
 [AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
@@ -25,11 +25,11 @@
 
 - <b>Learning Game Development (Various)</b>
   - [Top Down Shooter (Godot, GDScript)](https://github.com/Zack-John/godot-top-down-shooter)
-  - [Heart Platformer (Godot, GDScript)]([MYREPO](https://github.com/Zack-John/heart-platformer))
+  - [Heart Platformer (Godot, GDScript)](https://github.com/Zack-John/heart-platformer)
   - [Sawblade Survival Game (Godot, GDScript)](https://github.com/Zack-John/balloon-survival-game)
   - ["Roll-A-Ball" (Unity, C#)](https://github.com/Zack-John/roll-a-ball/)
 
-  - <b>Learning Web Development (The Odin Project)</b>
+- <b>Learning Web Development (The Odin Project)</b>
   - [Static Landing Page Mock-Up](MYREPO)
   - [Simple Recipes Website](MYREPO)
   - [Practicing JavaScript](MYREPO)
