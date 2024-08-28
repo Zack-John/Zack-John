@@ -19,7 +19,7 @@
 <h2>IT / Programming Things I Do For Fun :)</h2>
 
 - <b>Learning CyberSecurity Fundementals (TryHackMe)</b>
-  - [TryHackMe Profile](MYPROFILE)
+  - [TryHackMe Profile](https://tryhackme.com/p/ZackHacks)
 
 - <b>Learning Web Development (The Odin Project)</b>
   - [Static Landing Page Mock-Up](MYREPO)
