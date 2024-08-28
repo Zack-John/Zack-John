@@ -13,10 +13,12 @@
 
 [Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](github.com/MYREPO)
 
+[Mobile/Web Two-Factor Authentication Project(Python, Flask, Firebase Database and Authentication, HTML/CSS](https://github.com/iperkins987/NotDuo_Web)
+
 [AI YouTube Video Summarizer Script (Python, OpenAI, Anthropic, ytdl)](https://github.com/Zack-John/youtube-vid-summarizer)
 
 
-<h2>IT / Programming Things I Do For Fun :)</h2>
+<h2>Some Things I Do For Fun :)</h2>
 
 - <b>Learning CyberSecurity Fundementals (TryHackMe)</b>
   - [TryHackMe Profile](https://tryhackme.com/p/ZackHacks)
