@@ -9,7 +9,7 @@
 
 <h2>Programming Projects:</h2>
 
-[Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/Zack-John/multithreaded-bank-simulator)
+[Multithreaded Banking Simulation (C, Multithreading, Multiprocess Programming)](https://github.com/Zack-John/banking-simulator/)
 
 [Brevets Time Calculator Web App (Python, MongoDB, Docker Compose, REST, Ajax)](https://github.com/Zack-John/brevets-time-calculator/)
 
