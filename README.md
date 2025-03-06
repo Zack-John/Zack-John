@@ -20,7 +20,7 @@
 
 <h2>Some Things I Do For Fun :)</h2>
 
-- <b>Learning CyberSecurity Fundementals (TryHackMe)</b>
+- <b>Learning Cybersecurity Fundementals (TryHackMe)</b>
   - [TryHackMe Profile](https://tryhackme.com/p/ZackHacks)
 
 - <b>Learning Game Development (Various)</b>
