@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zack 👋</h1>
 
-<h2>Home Lab Projects:</h2>
+<h2>IT Home Lab Projects:</h2>
 
 [Active Directory Home Lab (VirtualBox, Server 2019, Windows 10)](https://github.com/Zack-John/active-directory-homelab)
 
